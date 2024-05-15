@@ -1,6 +1,9 @@
 # NREL Energize Forum 2024 Interactive Edge AI Booth Demo
 <sub>Demo created by [Michael Bartlett](https://research-hub.nrel.gov/en/persons/michael-bartlett), adapated from the [Nano_LLM multimodal video querying tutorials](https://www.jetson-ai-lab.com/tutorial_nano-vlm.html)</sub>
 
+![856765c4-053f-4046-b291-83d6ea9b8144](https://github.com/nrel-stratus-iac/energize-forum-2024/assets/85039141/d7168566-4ad7-4baf-9719-a330f6ecf5ca)
+
+
 ## Hardware setup
 
 This setup uses the [Nano_LLM library](https://www.jetson-ai-lab.com/tutorial_nano-llm.html) which requires the user to flash [JetPack version 6.0](https://developer.nvidia.com/embedded/jetpack-sdk-60) using the [NVIDIA SDK Manager](https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html).
